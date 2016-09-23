@@ -1,0 +1,6 @@
+C:\Users\shsac\Google Drive\PythonFor\CS\Projects\MusicRecordBiz\MusicRecordBiz\bin\Debug\MusicRecordBiz.exe.config
+C:\Users\shsac\Google Drive\PythonFor\CS\Projects\MusicRecordBiz\MusicRecordBiz\obj\Debug\MusicRecordBiz.csprojResolveAssemblyReference.cache
+C:\Users\shsac\Google Drive\PythonFor\CS\Projects\MusicRecordBiz\MusicRecordBiz\bin\Debug\MusicRecordBiz.exe
+C:\Users\shsac\Google Drive\PythonFor\CS\Projects\MusicRecordBiz\MusicRecordBiz\bin\Debug\MusicRecordBiz.pdb
+C:\Users\shsac\Google Drive\PythonFor\CS\Projects\MusicRecordBiz\MusicRecordBiz\obj\Debug\MusicRecordBiz.exe
+C:\Users\shsac\Google Drive\PythonFor\CS\Projects\MusicRecordBiz\MusicRecordBiz\obj\Debug\MusicRecordBiz.pdb
