@@ -1,2 +1,3 @@
 # MusicRecordBiz
-C# playAround
+
+C# playAround creating a music record database featuring CRUD operations
